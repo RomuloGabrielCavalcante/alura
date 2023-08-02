@@ -112,14 +112,14 @@ body {
 }
 .rodape{
     text-align: center;
-    margin: 5em 3em;
+    margin: 2em 3em;
     
 }
 .rodape__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin-top: 1em;
+
 }
 .lista__link a{
     text-decoration: none;
@@ -133,7 +133,7 @@ body {
 .rodape__texto{
     font-family: var(--fonteprincipal);
     font-weight:400;
-    margin: 2%;
+    margin: 1% ;
     font-family: var(--fonteprincipal);
     font-weight: 500;
     color: var(--corlegendas);
